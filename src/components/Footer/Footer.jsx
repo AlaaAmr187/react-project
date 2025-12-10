@@ -5,16 +5,16 @@ export default function Footer() {
         <>
         <footer id='blue'>
             <div className="container py-5">
-                <div className="top row row-cols-3 text-center text-white py-5">
+                <div className="top row row-cols-1 row-cols-md-3 text-center text-white py-5">
                     <div className="col">
-                        <div className="">
+                        <div className="py-3">
                         <h3>LOCATION</h3>
                         <p>2215 John Daniel Drive</p>
                         <p>Clark, MO 65243</p>
                     </div>
                     </div>
                     <div className="col">
-                        <div className="">
+                        <div className="py-3">
                         <h3 className=''>AROUND THE WEB</h3>
                         <div className="media d-flex justify-content-center mt-3  ">
                             <div className=" rounded rounded-circle mx- border border-white border-1 mx-1 d-flex justify-content-center align-items-center">
@@ -33,7 +33,7 @@ export default function Footer() {
                     </div>
                     </div>
                     <div className="col">
-                        <div className="">
+                        <div className="py-3">
                         <h3>ABOUT FREELANCER</h3>
                         <p className='max-w'>Freelance is a free to use, licensed Bootstrap theme created by Route</p>
                     </div>
