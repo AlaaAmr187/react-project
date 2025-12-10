@@ -2,7 +2,7 @@ import { useState } from 'react'
 import './App.css'
 import Navbar from './components/Navbar/Navbar'
 import 'bootstrap/dist/css/bootstrap.min.css'
-import 'bootstrap/dist/Js/bootstrap'
+import "bootstrap/dist/js/bootstrap.bundle.min.js";
 import Home from './components/Home/Home'
 import '@fortawesome/fontawesome-free/css/all.min.css'
 import Footer from './components/Footer/Footer'
